@@ -7,3 +7,10 @@ I can't get the local storage to function properly, But I was able to make it so
 I just really wanted to submit this assignment seeing as it is really late. I will be attempting to come back to this for re-submission.
 
 
+<!-- Links -->
+https://github.com/PolishMustard624853/Work-Day-Scheduler
+
+https://polishmustard624853.github.io/Work-Day-Scheduler/
+
+<!-- Screenshot -->
+![Screenshot of Page](./127.0.0.1_5504_index.html.png)
